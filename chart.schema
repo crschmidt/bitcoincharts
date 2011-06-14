@@ -1,0 +1,7 @@
+CREATE TABLE chart (
+    timestamp int,
+    price float,
+    volume float,
+    currency varchar, 
+    tid int,
+    symbol varchar);
